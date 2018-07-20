@@ -20,7 +20,8 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
-/config/credetials.yml.enc
+/config/database.yml
+/config/credentials.yml.enc
 
 #add ignore files
 
